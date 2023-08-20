@@ -5,6 +5,6 @@ google://inspect/#devices --> google explorer
 ===========================================
 turn on developer mode and debugging on in mobile
 --> to turn on developer mode (xiamoi) ---> settings > click on MIUI version 3 times
---> to turn on developer mode (iphone) ---> settings > click on MIUI version 3 times
+--> to turn on developer mode (iphone) ---> settings > privacy > developer mode
 then with cable connect to laptop
 and set mobile to transfer data , and allow the debugging
