@@ -5,6 +5,12 @@ google://inspect/#devices --> google explorer
 ===========================================
 turn on developer mode and debugging on in mobile
 --> to turn on developer mode (xiamoi) ---> settings > click on MIUI version 3 times
---> to turn on developer mode (iphone) ---> settings > privacy > developer mode
 then with cable connect to laptop
 and set mobile to transfer data , and allow the debugging
+
+
+--> to turn on developer mode (iphone) ---> settings > privacy > developer mode
+On your Mac, open Safari, then go to Safari > Preferences.
+Click Advanced and click Show Develop menu in menu bar at the bottom of the window. Close the window.
+then connect with cable
+
