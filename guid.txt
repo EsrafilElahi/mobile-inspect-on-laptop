@@ -1,7 +1,7 @@
 brave://inspect/#devices --> brave explorer
 
 google://inspect/#devices --> google explorer
-
+ 
 ===========================================
 turn on developer mode and debugging on in mobile
 --> to turn on developer mode (xiamoi) ---> settings > click on MIUI version 3 times
