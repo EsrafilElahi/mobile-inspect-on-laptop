@@ -10,7 +10,7 @@ and set mobile to transfer data , and allow the debugging
 
 
 --> to turn on developer mode (iphone) ---> settings > privacy > developer mode
-On your Mac, open Safari, then go to Safari > Preferences.
+On your Mac, open Safari, then go to Safari > Preferences. 
 Click Advanced and click Show Develop menu in menu bar at the bottom of the window. Close the window.
 then connect with cable
 
