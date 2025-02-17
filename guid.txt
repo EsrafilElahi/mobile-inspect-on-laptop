@@ -1,5 +1,5 @@
 brave://inspect/#devices --> brave explorer
-
+opera://inspect/#devices --> opera explorer
 google://inspect/#devices --> google explorer
  
 ===========================================
